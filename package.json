@@ -1,0 +1,34 @@
+{
+  "name": "i-miss-my-bookshelf",
+  "version": "1.0.0",
+  "description": "A simple web project heavily inspired by \"I Miss My Café\" that provides a cozy atmosphere with adjustable sounds like rain, cats purring, and pages turning that can act as white noise to help users relax or focus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiriJV/I-Miss-My-Bookshelf.git"
+  },
+  "keywords": [
+    "focus",
+    "relaxation",
+    "study",
+    "\"ambient",
+    "noise\"",
+    "\"white",
+    "noise\"",
+    "\"background",
+    "noise\"",
+    "bookshelf"
+  ],
+  "author": "Siri JV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiriJV/I-Miss-My-Bookshelf/issues"
+  },
+  "homepage": "https://github.com/SiriJV/I-Miss-My-Bookshelf#readme",
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
+}
